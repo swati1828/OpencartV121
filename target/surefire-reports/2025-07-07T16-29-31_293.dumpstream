@@ -1,0 +1,5 @@
+# Created at 2025-07-07T16:29:31.715
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Java_Programs\OpencartV121\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
