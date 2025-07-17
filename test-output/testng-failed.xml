@@ -4,9 +4,9 @@
   <listeners>
     <listener class-name="UtilityFiles.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Linux-Firefox(failed)">
-    <parameter name="os" value="Linux"/>
-    <parameter name="browser" value="firefox"/>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="TestCases.TC002_LoginTest">
         <methods>
@@ -16,5 +16,5 @@
         </methods>
       </class> <!-- TestCases.TC002_LoginTest -->
     </classes>
-  </test> <!-- Linux-Firefox(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
