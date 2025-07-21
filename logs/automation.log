@@ -150,3 +150,15 @@
 21:43:20.403 [main] INFO  TestCases.TC002_LoginTest - ******Providing customer valid email and vaild pwd******
 21:43:22.303 [main] INFO  TestCases.TC002_LoginTest - ********Validating expected msg*******
 21:43:22.303 [main] INFO  TestCases.TC002_LoginTest - ******Finished TC001_AcoountRegistrationTest ******
+16:25:47.229 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java_Programs\OpencartV121\master.xml"
+16:25:54.016 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Starting TC001_AcoountRegistrationTest ******
+16:25:55.149 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_myacc******
+16:25:55.898 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_register******
+16:25:55.905 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Providing customer details******
+16:25:58.224 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ********Validating expected msg*******
+16:25:58.324 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Finished TC001_AcoountRegistrationTest ******
+16:26:03.019 [main] INFO  TestCases.TC002_LoginTest - ******Starting TC002_LoginTest ******
+16:26:04.230 [main] INFO  TestCases.TC002_LoginTest - ******Clicked on click_to_login page******
+16:26:04.239 [main] INFO  TestCases.TC002_LoginTest - ******Providing customer valid email and vaild pwd******
+16:26:05.760 [main] INFO  TestCases.TC002_LoginTest - ********Validating expected msg*******
+16:26:05.760 [main] INFO  TestCases.TC002_LoginTest - ******Finished TC001_AcoountRegistrationTest ******
