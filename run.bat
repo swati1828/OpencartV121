@@ -1,2 +1,2 @@
 cd D:\Java_Programs\OpencartV121
-mvn test
+mvn -f D:\Java_Programs\OpencartV121\pom.xml

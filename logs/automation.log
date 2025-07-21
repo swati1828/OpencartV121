@@ -162,3 +162,39 @@
 16:26:04.239 [main] INFO  TestCases.TC002_LoginTest - ******Providing customer valid email and vaild pwd******
 16:26:05.760 [main] INFO  TestCases.TC002_LoginTest - ********Validating expected msg*******
 16:26:05.760 [main] INFO  TestCases.TC002_LoginTest - ******Finished TC001_AcoountRegistrationTest ******
+17:28:46.033 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java_Programs\OpencartV121\master.xml"
+17:28:53.137 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Starting TC001_AcoountRegistrationTest ******
+17:28:54.294 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_myacc******
+17:28:54.947 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_register******
+17:28:54.952 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Providing customer details******
+17:28:57.263 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ********Validating expected msg*******
+17:28:57.387 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Finished TC001_AcoountRegistrationTest ******
+17:29:02.974 [main] INFO  TestCases.TC002_LoginTest - ******Starting TC002_LoginTest ******
+17:29:04.056 [main] INFO  TestCases.TC002_LoginTest - ******Clicked on click_to_login page******
+17:29:04.061 [main] INFO  TestCases.TC002_LoginTest - ******Providing customer valid email and vaild pwd******
+17:29:06.072 [main] INFO  TestCases.TC002_LoginTest - ********Validating expected msg*******
+17:29:06.072 [main] INFO  TestCases.TC002_LoginTest - ******Finished TC001_AcoountRegistrationTest ******
+20:42:59.761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java_Programs\OpencartV121\master.xml"
+20:43:06.928 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Starting TC001_AcoountRegistrationTest ******
+20:43:08.548 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_myacc******
+20:43:09.326 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_register******
+20:43:09.331 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Providing customer details******
+20:43:11.455 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ********Validating expected msg*******
+20:43:11.552 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Finished TC001_AcoountRegistrationTest ******
+20:43:15.433 [main] INFO  TestCases.TC002_LoginTest - ******Starting TC002_LoginTest ******
+20:43:16.737 [main] INFO  TestCases.TC002_LoginTest - ******Clicked on click_to_login page******
+20:43:16.741 [main] INFO  TestCases.TC002_LoginTest - ******Providing customer valid email and vaild pwd******
+20:43:18.145 [main] INFO  TestCases.TC002_LoginTest - ********Validating expected msg*******
+20:43:18.147 [main] INFO  TestCases.TC002_LoginTest - ******Finished TC001_AcoountRegistrationTest ******
+20:45:18.320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java_Programs\OpencartV121\master.xml"
+20:45:23.364 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Starting TC001_AcoountRegistrationTest ******
+20:45:24.186 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_myacc******
+20:45:24.843 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Clicked on click_register******
+20:45:24.848 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Providing customer details******
+20:45:26.720 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ********Validating expected msg*******
+20:45:26.799 [main] INFO  TestCases.TC001_AcoountRegistrationTest - ******Finished TC001_AcoountRegistrationTest ******
+20:45:30.154 [main] INFO  TestCases.TC002_LoginTest - ******Starting TC002_LoginTest ******
+20:45:31.373 [main] INFO  TestCases.TC002_LoginTest - ******Clicked on click_to_login page******
+20:45:31.376 [main] INFO  TestCases.TC002_LoginTest - ******Providing customer valid email and vaild pwd******
+20:45:32.939 [main] INFO  TestCases.TC002_LoginTest - ********Validating expected msg*******
+20:45:32.939 [main] INFO  TestCases.TC002_LoginTest - ******Finished TC001_AcoountRegistrationTest ******
